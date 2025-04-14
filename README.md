@@ -14,32 +14,20 @@ Welcome to the official repository for **Belkis Online Marketplace**, a mobile e
 
 - [![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 
-- **Dart**  
-  - Programming language used with Flutter to build the app.
-  - [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
+- [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 
-- **Firebase**  
-  - Backend-as-a-Service platform used for authentication, Firestore database, and real-time services.
-  - [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+- [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 
-- **Kotlin**  
-  - Used for native Android support in certain app features.
-  - [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+- [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 
 ---
 ## 🧪 Environments Used
 
-- **Android Studio**  
-  - IDE used for Flutter and Kotlin development. It offers an integrated environment for coding, debugging, and testing.
-  - ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+-  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-- **Firebase Console**  
-  - Used for managing the backend, including authentication, database, and hosting.
-  - ![Firebase Console](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+-  ![Firebase Console](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-- **Android Emulator** / **Physical Android Devices**  
-  - Testing environment for running and debugging the application on virtual and physical devices.
-  - ![Android Emulator](https://img.shields.io/badge/Android%20Emulator-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+-  ![Android Emulator](https://img.shields.io/badge/Android%20Emulator-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ---
 ## 🖼️ User Interface
