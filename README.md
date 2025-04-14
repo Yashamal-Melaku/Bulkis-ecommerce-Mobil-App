@@ -12,9 +12,7 @@ Welcome to the official repository for **Belkis Online Marketplace**, a mobile e
 
 ## 🖥️ Languages and Technologies Used
 
-- **Flutter**  
-  - Cross-platform mobile development framework used for building both Android and iOS applications.
-  - [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+- **Flutter**[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 
 - **Dart**  
   - Programming language used with Flutter to build the app.
