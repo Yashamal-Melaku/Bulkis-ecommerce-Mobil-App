@@ -9,32 +9,11 @@ Welcome to the official repository for **Belkis Online Marketplace**, a mobile e
 **Belkis Online Marketplace** is a lifestyle mobile application built using Flutter that allows users to browse, order, and pay for cosmetic products through an intuitive and seamless experience. The app empowers small-scale businesses by giving them a digital storefront and customers a more convenient and accessible way to shop.
 
 ---
-
-## 🖥️ Languages and Technologies Used
-
-- [![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-
-- [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
-
-- [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
-
-- [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-
----
-## 🧪 Environments Used
-
--  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
--  ![Firebase Console](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
--  ![Android Emulator](https://img.shields.io/badge/Android%20Emulator-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
----
 ## 🖼️ User Interface
 
 Here’s a preview of the application’s UI:
 
-![Belkis UI 1](https://i.imgur.com/XBBjJHD.jpg)
+![Belkis UI 1](<blockquote class="imgur-embed-pub" lang="en" data-id="a/sVy0pAP" data-context="false" ><a href="//imgur.com/a/sVy0pAP"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
 ![Belkis UI 2](https://i.imgur.com/YlRCOoH.jpg)
 ![Belkis UI 3](https://i.imgur.com/wRbFky9.jpg)
 ![Belkis UI 4](https://i.imgur.com/1VsIOYn.jpg)
