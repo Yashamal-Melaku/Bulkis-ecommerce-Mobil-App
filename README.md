@@ -13,7 +13,7 @@ Welcome to the official repository for **Belkis Online Marketplace**, a mobile e
 
 Here’s a preview of the application’s UI:
 
-![Belkis UI 1](<blockquote class="imgur-embed-pub" lang="en" data-id="a/sVy0pAP" data-context="false" ><a href="//imgur.com/a/sVy0pAP"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
+![Belkis UI 2]([https://i.imgur.com/YlRCOoH.jpg](https://imgur.com/NLqx8oz))
 ![Belkis UI 2](https://i.imgur.com/YlRCOoH.jpg)
 ![Belkis UI 3](https://i.imgur.com/wRbFky9.jpg)
 ![Belkis UI 4](https://i.imgur.com/1VsIOYn.jpg)
