@@ -12,12 +12,12 @@ Welcome to the official repository for **Belkis Online Marketplace**, a mobile e
 ## 🖼️ User Interface
 
 Here’s a preview of the application’s UI:
-![Belkis UI 2](https://i.imgur.com/NLqx8oz.png)  
-![Belkis UI 2](https://i.imgur.com/YlRCOoH.jpg)
-![Belkis UI 3](https://i.imgur.com/wRbFky9.jpg)
-![Belkis UI 4](https://i.imgur.com/1VsIOYn.jpg)
-![Belkis UI 5](https://i.imgur.com/JIAlGBh.jpg)
-
+![Belkis UI 2](https://i.imgur.com/Ixvvw9Z.png)  
+![Belkis UI 2](blob:https://imgur.com/78c162ca-269e-446c-a109-21ef29fce75e)
+![Belkis UI 3](https://i.imgur.com/Mw0K7jf.png)
+![Belkis UI 4](https://i.imgur.com/SKiD8so.png)
+![Belkis UI 4](https://i.imgur.com/hWaDJmR.png)
+![Belkis UI 4](blob:https://imgur.com/f7dccfe7-c5bd-4239-9435-5b22c9193794)
 
 ---
 
