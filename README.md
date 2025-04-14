@@ -1,4 +1,4 @@
-# 💄 Belkis Online Marketplace
+# 🛒 Belkis Online Marketplace
 
 Welcome to the official repository for **Belkis Online Marketplace**, a mobile e-commerce platform designed to modernize the way cosmetics are sold and bought in Ethiopia. This project was developed as part of our final year industrial project at Haramaya University.
 
@@ -10,6 +10,40 @@ Welcome to the official repository for **Belkis Online Marketplace**, a mobile e
 
 ---
 
+## 🖥️ Languages and Technologies Used
+
+- **Flutter**  
+  - Cross-platform mobile development framework used for building both Android and iOS applications.
+  - [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+
+- **Dart**  
+  - Programming language used with Flutter to build the app.
+  - [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
+
+- **Firebase**  
+  - Backend-as-a-Service platform used for authentication, Firestore database, and real-time services.
+  - [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+
+- **Kotlin**  
+  - Used for native Android support in certain app features.
+  - [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+
+---
+## 🧪 Environments Used
+
+- **Android Studio**  
+  - IDE used for Flutter and Kotlin development. It offers an integrated environment for coding, debugging, and testing.
+  - ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+- **Firebase Console**  
+  - Used for managing the backend, including authentication, database, and hosting.
+  - ![Firebase Console](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+- **Android Emulator** / **Physical Android Devices**  
+  - Testing environment for running and debugging the application on virtual and physical devices.
+  - ![Android Emulator](https://img.shields.io/badge/Android%20Emulator-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+---
 ## 🖼️ User Interface
 
 Here’s a preview of the application’s UI:
@@ -19,6 +53,7 @@ Here’s a preview of the application’s UI:
 ![Belkis UI 3](https://i.imgur.com/wRbFky9.jpg)
 ![Belkis UI 4](https://i.imgur.com/1VsIOYn.jpg)
 ![Belkis UI 5](https://i.imgur.com/JIAlGBh.jpg)
+
 
 ---
 
@@ -43,21 +78,16 @@ Here’s a preview of the application’s UI:
 ---
 
 ## 🛠️ Tech Stack
-
-- **Frontend**: Flutter
-- **Backend**: Firebase (Authentication, Firestore)
-- **Languages**: Dart, Kotlin (for native Android integration)
-- **IDE**: Android Studio
-- **Version Control**: Git + GitHub
+<p align="center"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </p>
 
 ---
 
 ## 🧪 Testing & Methodology
 
-- Agile-based SDLC
-- Functional & non-functional requirement analysis
-- Use case, activity, class & sequence diagrams
-- Real-time testing on Android Emulator & physical devices
+- Agile-based SDLC  
+- Functional & non-functional requirement analysis  
+- Use case, activity, class & sequence diagrams  
+- Real-time testing on Android Emulator & physical devices  
 
 ---
 
@@ -65,7 +95,7 @@ Here’s a preview of the application’s UI:
 
 👩‍💻 Eyerusalem H/mariam – [`UGR/171776/12`]  
 👨‍💻 Tafes Belaygibaw – [`UGR/170936/12`]  
-👨‍💻 Yashamal Melaku – [`UGR/171531/12`]
+👨‍💻 Yashamal Melaku – [`UGR/171531/12`]  
 
 **Supervised by**: Mr. Birhanu G.
 
