@@ -1,94 +1,70 @@
-# 💄 Belkis Online Marketplace
+<h1>Belkis Online Marketplace - Mobile E-commerce App</h1>
 
-Welcome to the official repository for **Belkis Online Marketplace**, a mobile e-commerce platform designed to modernize the way cosmetics are sold and bought in Ethiopia. This project was developed as part of our final year industrial project at Haramaya University.
+### [YouTube Demonstration](https://youtu.be/your-demo-link-here)
 
----
+<h2>Description</h2>
+Belkis Online Marketplace is a Flutter-based mobile e-commerce application developed for selling and buying cosmetic products. It offers a clean user interface, secure user authentication, shopping cart functionality, and admin-level product management. This project was built as a final year industrial project for the Department of Information Technology at Haramaya University.
+<br />
 
-## 📱 Project Overview
+<h2>Languages and Technologies Used</h2>
 
-**Belkis Online Marketplace** is a lifestyle mobile application built using Flutter that allows users to browse, order, and pay for cosmetic products through an intuitive and seamless experience. The app empowers small-scale businesses by giving them a digital storefront and customers a more convenient and accessible way to shop.
+- <b>Flutter</b>  
+- <b>Dart</b>  
+- <b>Firebase (Auth, Firestore)</b>  
+- <b>Kotlin (for native Android support)</b>
 
----
+<h2>Environments Used</h2>
 
-## 🖼️ User Interface
+- <b>Android Studio</b>  
+- <b>Firebase Console</b>  
+- <b>Android Emulator / Physical Android Devices</b>
 
-### 🔹 Home Page
-![Home Page](screenshots/home_page.png)
+<h2>App Walk-through:</h2>
 
-### 🔹 Login Screen
-![Login](screenshots/login_screen.png)
+<p align="center">
+Welcome Screen with Language Selection: <br/>
+<img src="https://i.imgur.com/XBBjJHD.jpg" height="80%" width="80%" alt="Belkis App Welcome"/>
+<br /><br />
 
-### 🔹 Product Listing
-![Product List]( )
+Login Page: <br/>
+<img src="https://i.imgur.com/YlRCOoH.jpg" height="80%" width="80%" alt="Login Page"/>
+<br /><br />
 
-### 🔹 Cart Page
-![Cart Page](screenshots/cart_page.png)
+Browse Products: <br/>
+<img src="https://i.imgur.com/wRbFky9.jpg" height="80%" width="80%" alt="Product Listing"/>
+<br /><br />
 
-### 🔹 Admin Dashboard
-![Admin Dashboard](screenshots/admin_dashboard.png)
+Shopping Cart Page: <br/>
+<img src="https://i.imgur.com/1VsIOYn.jpg" height="80%" width="80%" alt="Cart Page"/>
+<br /><br />
 
-### 🔹 Order Summary
-![Order Summary](screenshots/order_summary.png)
+Admin Product Management Panel: <br/>
+<img src="https://i.imgur.com/JIAlGBh.jpg" height="80%" width="80%" alt="Admin Page"/>
+<br /><br />
+</p>
 
----
+<h2>Key Features</h2>
 
-## 🚀 Features
+- 🛒 View categories & add products to cart  
+- 🔒 User login & registration with validation  
+- 💳 Checkout with eBirr or Cash on Delivery  
+- 👨‍💼 Admin access to manage inventory & users  
+- 📦 Order history and delivery tracking  
+- 🌍 Multi-language support (English, Amharic, Afaan Oromo)
 
-### 🛍️ For Customers
-- Browse categories & product listings
-- Add items to cart and checkout
-- Register and log in securely
-- View order history & manage profile
-- Payment integration via eBirr and Cash on Delivery
+<h2>Project Members</h2>
 
-### 👨‍💼 For Admins
-- Manage products & categories (CRUD operations)
-- View all orders and customer information
-- Grant payment access & deactivate accounts
+- 👩‍💻 Eyerusalem H/mariam – `UGR/171776/12`  
+- 👨‍💻 Tafes Belaygibaw – `UGR/170936/12`  
+- 👨‍💻 Yashamal Melaku – `UGR/171531/12`  
+- 🧑‍🏫 Supervised by: Mr. Birhanu G.  
 
-### 📦 Delivery & Payment Modules
-- Delivery tracking and shipping info management
-- Secure payment handling with support for digital wallets
+<h2>Academic Info</h2>
 
----
-
-## 🛠️ Tech Stack
-
-- **Frontend**: Flutter
-- **Backend**: Firebase (Authentication, Firestore)
-- **Languages**: Dart, Kotlin (for native Android integration)
-- **IDE**: Android Studio
-- **Version Control**: Git + GitHub
-
----
-
-## 🧪 Testing & Methodology
-
-- Agile-based SDLC
-- Functional & non-functional requirement analysis
-- Use case, activity, class & sequence diagrams
-- Real-time testing on Android Emulator & physical devices
+- 📚 College of Computing and Informatics  
+- 🏫 Haramaya University, Ethiopia  
+- 📆 Submitted: January 12, 2023  
 
 ---
 
-**Supervised by**: Mr. Birhanu G.
-
----
-
-## 🎓 Academic Info
-
-- 📍 Department of Information Technology  
-- 📅 Submitted: January 12, 2023  
-- 🏫 Haramaya University, Ethiopia
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-We would like to thank our supervisor, family, friends, and the Haramaya University IT Department for their guidance and support during this project.
+> Want to try the app or see the backend in action? Check out the YouTube demo above or contact us for access.
