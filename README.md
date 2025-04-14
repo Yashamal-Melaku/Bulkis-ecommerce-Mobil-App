@@ -13,7 +13,7 @@ Welcome to the official repository for **Belkis Online Marketplace**, a mobile e
 
 Here’s a preview of the application’s UI:
 
-![Belkis UI 2](https://i.imgur.com/YlRCOoH.jpg)
+![Belkis UI 2]([https://i.imgur.com/YlRCOoH.jpg](https://i.imgur.com/NLqx8oz.png))
 ![Belkis UI 2](https://i.imgur.com/YlRCOoH.jpg)
 ![Belkis UI 3](https://i.imgur.com/wRbFky9.jpg)
 ![Belkis UI 4](https://i.imgur.com/1VsIOYn.jpg)
@@ -56,12 +56,6 @@ Here’s a preview of the application’s UI:
 
 ---
 
-## 📝 Authors
-
-👩‍💻 Eyerusalem H/mariam – [`UGR/171776/12`]  
-👨‍💻 Tafes Belaygibaw – [`UGR/170936/12`]  
-👨‍💻 Yashamal Melaku – [`UGR/171531/12`]  
-
 **Supervised by**: Mr. Birhanu G.
 
 ---
@@ -73,13 +67,3 @@ Here’s a preview of the application’s UI:
 - 🏫 Haramaya University, Ethiopia
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-We would like to thank our supervisor, family, friends, and the Haramaya University IT Department for their guidance and support during this project.
